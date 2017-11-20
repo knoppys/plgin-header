@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?><wwwjcat><category number="1" description="Type Of Job" division="ALL"><job_category code="24EXCTV">Executive</job_category>
+<job_category code="24PERMNNT">Permanent</job_category>
+<job_category code="24SKLLBS">Interim</job_category>
+<job_category code="24TEMPRRY">Temporary</job_category>
+<job_category code="24EGAMING">Igaming</job_category>
+</category><category number="2" description="Hours" division="ALL"><job_category code="10FULLTIME">Full Time</job_category>
+<job_category code="10PARTTIME">Part Time</job_category>
+</category><category number="3" description="Sector" division="ALL"><job_category code="AACCOUNTA">Accountancy</job_category>
+<job_category code="ABANKCLEA">Clearing Bank</job_category>
+<job_category code="ACOMADVRT">Advertising</job_category>
+<job_category code="ACOMMARKT">Marketing</job_category>
+<job_category code="ACOMMEDIA">Media</job_category>
+<job_category code="AHRCORPOR">HR</job_category>
+<job_category code="AHRTRAIN">Training / L&amp;D</job_category>
+<job_category code="AINSRNC">Insurance</job_category>
+<job_category code="AINVESTMT">Investment</job_category>
+<job_category code="AIT">I.T. / Telecoms</job_category>
+<job_category code="ALEGAL">Legal</job_category>
+<job_category code="AOFSCAPTV">Captive Insurance</job_category>
+<job_category code="AOFSLIFEA">Life Assurance</job_category>
+<job_category code="AONSGENRL">General Insurance</job_category>
+<job_category code="AONSLFPEN">Pensions</job_category>
+<job_category code="APROP&amp;REA">Property &amp; Real Est</job_category>
+<job_category code="ASALS/BSN">Sales/Business Dev</job_category>
+<job_category code="ASHIPMANG">Ship Management</job_category>
+<job_category code="ATRUST&amp;CO">TSP / CSP</job_category>
+<job_category code="AEGAMING">E-Gaming</job_category>
+<job_category code="AFINSERVS">Financial Services</job_category>
+<job_category code="APUBLIC">Public Sector</job_category>
+<job_category code="AAERO">Aerospace</job_category>
+<job_category code="AMANUFAC">Manufacturing</job_category>
+<job_category code="ATRADING">Trading</job_category>
+<job_category code="AINVBANK">Investment Bank</job_category>
+<job_category code="AOTHER">Other</job_category>
+<job_category code="ALOGISTIC">Logistics</job_category>
+<job_category code="ARETAIL">Retail</job_category>
+<job_category code="AHOSPITAL">Hospitality</job_category>
+<job_category code="APAYROLLS">Payroll Services / EBT</job_category>
+<job_category code="ACONSTRUC">Construction</job_category>
+<job_category code="AENG">Engineering</job_category>
+<job_category code="ACREAT">CREATIVE</job_category>
+</category></wwwjcat>
